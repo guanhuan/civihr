@@ -6,5 +6,4 @@ See also:
  * Demo site: https://demo.civihrhosting.co.uk/
  
 We are using browserstack for testing:
-
 <a href="https://www.browserstack.com/"><img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" align="left" height="100" ></a>
